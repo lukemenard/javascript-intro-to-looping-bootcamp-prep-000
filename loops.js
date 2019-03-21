@@ -18,3 +18,6 @@ function whileLoop(number) {
   return 'done'
 }
 
+function doWhileLoop(integer){
+  var i = 0
+}
