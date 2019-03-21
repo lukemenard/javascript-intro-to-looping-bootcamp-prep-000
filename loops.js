@@ -10,3 +10,6 @@ function forLoop(array){
   return array
 }
 
+function whileLoop(number) {
+  
+}
